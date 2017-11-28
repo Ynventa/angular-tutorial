@@ -4,8 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Demo online
 [Click to go to demo online](http://www.ynnova.com.ar/angular-tutorial/).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
