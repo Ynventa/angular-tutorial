@@ -1,9 +1,6 @@
 # Angular tutorial
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
-## Demo online
-[Click to go to demo online](http://ynnova.com.ar/angular-tutorial).
-
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Development server
